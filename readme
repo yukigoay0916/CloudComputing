@@ -8,8 +8,8 @@ sudo yum install git -y
 sudo pip3 install flask
 sudo pip3 install pymysql
 sudo pip3 install boto3
-git clone https://github.com/yukigoay0916/aws.git
-cd aws
+git clone https://github.com/yukigoay0916/CloudComputing.git
+cd CloudComputing
 sudo python3 EmpApp.py
 
 
